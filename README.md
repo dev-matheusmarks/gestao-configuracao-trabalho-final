@@ -32,3 +32,10 @@ DEBUG=Status de ativação do modo debug
 USER=Nome de usuário
 TOKEN=Token de autenticação
 
+# Último Log
+commit 61b6f492643b7fb0f1d9adfea3319276891a38c6 (HEAD -> dev)
+Author: dev-matheusmarks <marques29matheus@edu.unifor.br>
+Date:   Sat Nov 29 09:41:53 2025 -0300
+
+    Adicionando descrição das variáveis de ambitente
+
