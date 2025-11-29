@@ -1,4 +1,5 @@
   dev
   hotfix
-* main
+  main
   prod
+* stage
