@@ -17,3 +17,25 @@ ferramentas. Realize as seguintes tarefas que representam o fluxo de
 trabalho com Git/GitHub
 
 O Arquivo com os demais detalhes esta disponivel no AVA.
+
+# gestao-configuracao-trabalho-final
+
+## Trabalho final
+
+- Matheus de Oliveira Marques, matrícula 2529350, github: https://github.com/dev-matheusmarks
+- Luis Henrique Lima Santos, matricula 2527800, github: https://github.com/lhlimasan
+
+# Variáveis de Ambiente
+API_URL= URL da api do serviço
+PORT=Porta de conexão
+DEBUG=Status de ativação do modo debug
+USER=Nome de usuário
+TOKEN=Token de autenticação
+
+# Último Log
+commit 61b6f492643b7fb0f1d9adfea3319276891a38c6 (HEAD -> dev)
+Author: dev-matheusmarks <marques29matheus@edu.unifor.br>
+Date:   Sat Nov 29 09:41:53 2025 -0300
+
+    Adicionando descrição das variáveis de ambitente
+
